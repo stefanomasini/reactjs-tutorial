@@ -1,0 +1,17 @@
+{
+    "name": "reactjs-tutorial",
+    "version": "0.0.0",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "bootstrap": "*",
+        "react": "*",
+        "requirejs": "*",
+        "when": "*",
+        "almond": "*"
+    }
+}

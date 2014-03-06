@@ -1,0 +1,11 @@
+{
+  "name": "reactjs-tutorial",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-react": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-watch": "*"
+  }
+}
